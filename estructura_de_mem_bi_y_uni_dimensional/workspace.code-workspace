@@ -1,0 +1,28 @@
+{
+    "folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../conceptos_basicos"
+		},
+		{
+			"path": "../Estructura_condicional"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Estructura_Iterativa"
+		},
+		{
+			"path": "../Estructura_repetitiva"
+		}
+	],
+    "settings": {
+        "files.associations": {
+            "*.NET": "bat",
+            "Ciclos_repetitivos_FOR.C": "cpp"
+        }
+    }
+}

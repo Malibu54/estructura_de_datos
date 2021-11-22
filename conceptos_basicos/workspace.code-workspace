@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": ".."
+        },
+        {
+            "path": "."
+        },
+        {
+            "path": "../Estructura_condicional"
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "*.NET": "bat",
+            "Ciclos_repetitivos_FOR.C": "cpp"
+        }
+    }
+}

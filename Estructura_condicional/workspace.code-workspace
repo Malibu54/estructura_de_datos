@@ -1,0 +1,22 @@
+{
+    "folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../conceptos_basicos"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../estructura_de_mem_bi_y_uni_dimensional"
+		}
+	],
+    "settings": {
+        "files.associations": {
+            "*.NET": "bat",
+            "Ciclos_repetitivos_FOR.C": "cpp"
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../conceptos_basicos"
+		},
+		{
+			"path": "../Estructura_condicional"
+		},
+		{
+			"path": "../estructura_de_mem_bi_y_uni_dimensional"
+		},
+		{
+			"path": "../Estructura_Iterativa"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Estructura_secuencial"
+		}
+	],
+    "settings": {
+        "files.associations": {
+            "*.NET": "bat",
+            "Ciclos_repetitivos_FOR.C": "cpp"
+        }
+    }
+}
